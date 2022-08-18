@@ -32,7 +32,7 @@ nav li {
 }
 
 nav a {
-  text-decoration: :none;
+  text-decoration: none;
   color: #2F4F4F
 }
 
@@ -46,6 +46,7 @@ nav a {
   padding-bottom: 5rem;
   position: relative;
   font-family: :"Abril Fatface", cursive;
+  font-size: large;
 }
 
 .hero-banner img {
@@ -58,7 +59,7 @@ nav a {
   left: 0;
   z-index: 1;
   padding-left: 5rem;
-  color: #FFF5EE;
+  color: #2F4F4F;
 }
 
 #about-me {
@@ -120,11 +121,11 @@ article p{
 #contact-me li {
   list-style-type: none;
   padding: 0 1rem
-  text-align-center
+  text-align:center;
 }
 
 #contact-me a {
-  color: #FFDAB9
+  color: #FFDAB9;
   text-decoration: none;
 }
 

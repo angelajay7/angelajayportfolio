@@ -51,9 +51,32 @@ nav a {
 
 .hero-banner h1 {
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 0;
   z-index: 1;
   padding-left: 5rem;
-  color: #FFF5EE
+  color: #FFF5EE;
+  font:"Abril Fatface", cursive;
+}
+
+#about-me {
+  display: flex;
+  width: auto;
+  margin: auto;
+  padding-bottom: 4rem;
+}
+
+#about {
+  padding: 2rem;
+}
+
+.work-contact{
+  text-align: center;
+}
+
+#portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
 }

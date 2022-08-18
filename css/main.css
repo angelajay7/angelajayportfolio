@@ -93,11 +93,11 @@ article {
 
 article a {
   text-decoration: none;
-  color: #FFDAB9;
+  color: #000000;
 }
 
 article a:hover{
-  color: #000000;
+  color: #2F4F4F;
   text-decoration: none;
 }
 
@@ -120,7 +120,7 @@ article p{
 
 #contact-me li {
   list-style-type: none;
-  padding: 0 1rem
+  padding: 0 1rem;
   text-align:center;
 }
 

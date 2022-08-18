@@ -75,9 +75,8 @@ nav a {
 }
 
 #portfolio {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
+  display: grid;
+  grid-template-columns: 3;
+  grid-template-rows: 3;
+  column-gap: 2rem;
 }

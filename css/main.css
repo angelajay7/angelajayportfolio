@@ -90,6 +90,7 @@ article {
 
 article a {
   text-decoration: none;
+  color: #FFDAB9;
 }
 
 article a:hover{
@@ -103,7 +104,27 @@ article p{
 
 }
 .button{
-  flex: 300px;
+  padding: 1rem;
+  margin: auto;
+  background-color: #D8BFD8;
+  color: #000000;
+}
+
+#contact-me {
+  padding: .5rem 1rem;
+  margin: 0;
+}
+
+#contat-me li {
+  list-style-type: none;
+  padding: 1rem 1rem
+}
+
+#contact-me a {
+  color: #FFDAB9
+  text-decoration: none;
+}
+
+footer {
   text-align: center;
-  margin-bottom: 1rem;
 }

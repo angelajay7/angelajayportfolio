@@ -9,6 +9,33 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: auto;
+}
+
+header {
+  align-items: center;
+}
+nav h1 h2 p {
+  font-family: "Roboto", sans-serif;
+}
+nav ul {
+  margin: 0;
+  padding: .5rem 1rem;
+  list-style-type: none;
+  display: flex;
+  align-content: flex-end;
+}
+
+nav li {
+  padding: 1.5rem 1rem;
+}
+
+nav a {
+  text-decoration: :none;
+  color: #2F4F4F
+}
+
 .hero-banner {
   display: grid;
   grid-template-areas: "hero-banner";
@@ -32,33 +59,6 @@ html {
   z-index: 1;
   padding-left: 5rem;
   color: #FFF5EE;
-
-}
-
-body {
-  margin: auto;
-  font-family: "Roboto", sans-serif;
-}
-
-header {
-  align-items: center;
-}
-
-nav ul {
-  margin: 0;
-  padding: .5rem 1rem;
-  list-style-type: none;
-  display: flex;
-  align-content: flex-end;
-}
-
-nav li {
-  padding: 1.5rem 1rem;
-}
-
-nav a {
-  text-decoration: :none;
-  color: #2F4F4F
 }
 
 #about-me {
@@ -96,7 +96,7 @@ article a {
 }
 
 article a:hover{
-  color: #B0C4DE;
+  color: #000000;
   text-decoration: none;
 }
 

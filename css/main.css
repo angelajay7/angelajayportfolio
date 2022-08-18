@@ -10,11 +10,12 @@ html {
 }
 
 body {
-  margin: auto;
+  margin: 0;
 }
 
 header {
   align-items: center;
+  margin: 0
 }
 nav, h2, h3, p, a {
   font-family: "Roboto", sans-serif;

@@ -40,12 +40,12 @@ nav a {
   display: grid;
   grid-template-areas: "hero-banner";
   place-items: center;
-  place-content; center;
+  place-content: center;
   overflow: hidden;
   margin: 0;
   padding-bottom: 5rem;
   position: relative;
-  font-family: :"Abril Fatface", cursive;
+  font-family: "Abril Fatface", cursive;
   font-size: large;
 }
 

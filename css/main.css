@@ -109,6 +109,7 @@ article p{
   margin: auto;
   background-color: #D8BFD8;
   color: #000000;
+  padding: 1rem;
 }
 
 #contact-me {
@@ -118,7 +119,6 @@ article p{
 
 #contact-me li {
   list-style-type: none;
-  padding: 0 1rem;
   text-align: center;
 }
 

@@ -16,7 +16,7 @@ body {
 header {
   align-items: center;
 }
-nav h1 h2 p {
+nav, h1, h2, p {
   font-family: "Roboto", sans-serif;
 }
 nav ul {

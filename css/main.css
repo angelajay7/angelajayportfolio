@@ -103,6 +103,10 @@ article a:hover{
   padding: 0;
 }
 
+article h3 {
+  margin: 0
+}
+
 article p{
   text-align: center;
   padding: 0;

@@ -40,8 +40,6 @@ nav a {
 .hero-banner {
   display: grid;
   grid-template-areas: "hero-banner";
-  place-items: center;
-  place-content: center;
   overflow: hidden;
   margin: 0;
   padding-bottom: 5rem;

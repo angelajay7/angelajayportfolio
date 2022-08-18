@@ -35,7 +35,7 @@ nav a {
   color: #2F4F4F
 }
 
-.banner {
+.hero-banner {
   display: grid;
   grid-template-areas: "hero-banner";
   place-items: center;
@@ -45,11 +45,11 @@ nav a {
   position: relative;
 }
 
-.bannerphoto {
+.hero-bannerphoto {
   width: 100%
 }
 
-.banner h1 {
+.hero-banner h1 {
   position: absolute;
   bottom: 0;
   left: 0;

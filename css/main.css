@@ -32,5 +32,15 @@ nav li {
 
 nav a {
   text-decoration: :none;
-  color: #FFDAB9
+  color: #2F4F4F
+}
+
+.banner {
+  display: grid;
+  grid-template-areas: "hero-banner";
+  place-items: center;
+  place-content; center;
+  overflow: hidden;
+  margin: 0,0, 5rem;
+  position: relative;
 }

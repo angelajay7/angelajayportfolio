@@ -99,20 +99,13 @@ article a {
 article a:hover{
   color: #2F4F4F;
   text-decoration: none;
-  padding: 0;
-}
-
-article h3 {
-  margin: 0
 }
 
 article p{
   text-align: center;
-  padding: 0;
 
 }
 .button{
-  padding: 1rem;
   margin: auto;
   background-color: #D8BFD8;
   color: #000000;

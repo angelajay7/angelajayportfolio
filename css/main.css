@@ -82,6 +82,26 @@ nav a {
    gap: 1rem;
 }
 
+article {
+  flex: 400px;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+article a {
+  text-decoration: none;
+}
+
+article a:hover{
+  color: #B0C4DE;
+  text-decoration: none;
+}
+
+article p{
+  text-align: left;
+  padding: 1rem;
+  
+}
 .button{
   flex: 300px;
   text-align: center;

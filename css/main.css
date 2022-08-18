@@ -19,7 +19,7 @@ header {
 }
 
 nav ul {
-  margin: 0
+  margin: 0;
   padding: .5rem 1rem;
   list-style-type: none;
   display: flex;
@@ -41,11 +41,11 @@ nav a {
   place-items: center;
   place-content; center;
   overflow: hidden;
-  margin: 0,0, 5rem, 0;
+  margin: 0;
   position: relative;
 }
 
-.hero-bannerphoto {
+.hero-banner img {
   width: 100%
 }
 

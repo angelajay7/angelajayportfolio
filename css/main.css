@@ -77,7 +77,8 @@ nav a {
 
 #portfolio {
   display: grid;
-  grid-template-columns: 100px, 100px, 100px;
+  width: 1000px;
+  grid-template-columns: 1fr, 1fr, 1fr;
   grid-template-rows: auto;
   column-gap: 2rem;
 }
